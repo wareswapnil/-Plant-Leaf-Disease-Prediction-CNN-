@@ -1,4 +1,4 @@
-<img width="1908" height="1018" alt="Screenshot 2026-01-18 121216" src="https://github.com/user-attachments/assets/b5e2cab0-ebd5-4731-9cba-878402ed9842" /><img width="1905" height="1008" alt="Screenshot 2026-01-18 121422" src="https://github.com/user-attachments/assets/a8fdeea9-ca82-4051-923b-9d6e4a043338" /># 🌿 Smart Greenhouse System with Plant Disease Detection using CNN
+# 🌿 Smart Greenhouse System with Plant Disease Detection using CNN
 
 ## 📌 Project Overview
 
@@ -62,6 +62,11 @@ The solution is designed to assist in **early disease detection, smart farming, 
 
 ## 📸 Application Screenshots
 
+### 🔹 System Interface
+
+<img width="1906" height="1012" alt="Screenshot 2026-01-18 120945" src="https://github.com/user-attachments/assets/fe5e53d4-7bbb-4e3d-b3a1-f98b98df7cee" />
+
+
 ### 🔹 Image Processing & Prediction
 
 
@@ -74,9 +79,6 @@ The solution is designed to assist in **early disease detection, smart farming, 
 <img width="1908" height="1018" alt="Screenshot 2026-01-18 121216" src="https://github.com/user-attachments/assets/82b80da8-d66c-4b6a-b7ce-5d66aea94da6" />
 
 
-### 🔹 System Interface
-
-<img width="1906" height="1012" alt="Screenshot 2026-01-18 120945" src="https://github.com/user-attachments/assets/fe5e53d4-7bbb-4e3d-b3a1-f98b98df7cee" />
 
 
 ## ▶️ How to Run the Project
